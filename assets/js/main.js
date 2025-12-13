@@ -1,6 +1,6 @@
 /**
-* Template Name: Craftivo
-* Template URL: https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
+* Template Name: Shivam
+* Template URL: https://bootstrapmade.com/Shivam-bootstrap-portfolio-template/
 * Updated: Oct 04 2025 with Bootstrap v5.3.8
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/

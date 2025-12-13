@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Craftivo
-Template URL: https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
+Template Name: Shivam
+Template URL: https://bootstrapmade.com/Shivam-bootstrap-portfolio-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
